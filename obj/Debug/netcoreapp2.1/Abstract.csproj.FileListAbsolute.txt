@@ -1,0 +1,11 @@
+F:\dotnet1\Abstract\Abstract\bin\Debug\netcoreapp2.1\Abstract.deps.json
+F:\dotnet1\Abstract\Abstract\bin\Debug\netcoreapp2.1\Abstract.runtimeconfig.json
+F:\dotnet1\Abstract\Abstract\bin\Debug\netcoreapp2.1\Abstract.runtimeconfig.dev.json
+F:\dotnet1\Abstract\Abstract\bin\Debug\netcoreapp2.1\Abstract.dll
+F:\dotnet1\Abstract\Abstract\bin\Debug\netcoreapp2.1\Abstract.pdb
+F:\dotnet1\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.csprojAssemblyReference.cache
+F:\dotnet1\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.csproj.CoreCompileInputs.cache
+F:\dotnet1\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.AssemblyInfoInputs.cache
+F:\dotnet1\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.AssemblyInfo.cs
+F:\dotnet1\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.dll
+F:\dotnet1\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.pdb
